@@ -11,7 +11,7 @@
       "version": "1.0.0",
       "description": "Source StreamIMDb via playimdb.com",
       "icon": "https://m.playimdb.com/favicon.ico",
-      "file": "https://raw.githubusercontent.com/VOTRE_NOM_UTILISATEUR/VOTRE_DEPOT/main/linkru.js",
+      "file": "https://github.com/superadlen/Link-ru-Nuvio/raw/refs/heads/main/linkru.js",
       "content_types": ["movie", "tv"]
     }
   ]
