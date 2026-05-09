@@ -1,11 +1,18 @@
 {
-  "id": "ru.link.stream",
-  "name": "Link-ru",
+  "id": "link.ru.repo",
+  "name": "Link-ru Repo",
   "version": "1.0.0",
   "author": "Adlen",
-  "description": "Source StreamIMDb via playimdb.com",
-  "icon": "https://m.playimdb.com/favicon.ico",
-  "type": "provider",
-  "file": "linkru.js",
-  "content_types": ["movie", "tv"]
+  "description": "Dépôt pour l'extension Link-ru",
+  "providers": [
+    {
+      "id": "ru.link.stream",
+      "name": "Link-ru",
+      "version": "1.0.0",
+      "description": "Source StreamIMDb via playimdb.com",
+      "icon": "https://m.playimdb.com/favicon.ico",
+      "file": "https://raw.githubusercontent.com/VOTRE_NOM_UTILISATEUR/VOTRE_DEPOT/main/linkru.js",
+      "content_types": ["movie", "tv"]
+    }
+  ]
 }
